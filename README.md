@@ -14,3 +14,7 @@ uv add beautifulsoup4
 ```bash
 uv run crawler.py
 ```
+
+## Mais detalhes
+
+[`projeto.md`](https://github.com/armandossrecife/my-web-scraping/blob/main/projeto.md)
